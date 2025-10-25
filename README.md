@@ -1,13 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/devops-banner.gif" alt="DevOps Engineer Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/SonuYadav143/SonuYadav143/main/assets/devops-banner.gif" alt="DevOps Engineer Banner" width="100%">
 </p>
 
 <h1 align="center">👨‍💻 Sonu Yadav | DevOps Engineer 🚀</h1>
 
 <p align="center">
-  <a href="https://https://linkedin.com/in/sonu-yadav-343749201/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="https://https://github.com/SonuYadav143/"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github"></a>
+  <a href="https://linkedin.com/in/sonu-yadav-343749201/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="https://github.com/SonuYadav143/"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github"></a>
   <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS-blue?logo=cloudflare">
   <img src="https://img.shields.io/badge/Automation-Terraform%20%7C%20CI%2FCD-orange?logo=terraform">
 </p>
@@ -62,12 +62,12 @@ From **cloud deployments** to **CI/CD pipelines**, I thrive on creating efficien
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonuYadav143&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuYadav143&theme=radical" alt="GitHub Streak" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuYadav143&layout=compact&theme=radical" alt="Top Languages" width="50%">
 </p>
 
 ---
@@ -75,8 +75,8 @@ From **cloud deployments** to **CI/CD pipelines**, I thrive on creating efficien
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://https://linkedin.com/in/sonu-yadav-343749201/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://https://github.com/SonuYadav143/"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
+  <a href="https://linkedin.com/in/sonu-yadav-343749201/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://github.com/SonuYadav143/"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
   <a href="mailto:sonuyadav4315@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 </p>
 
@@ -88,4 +88,4 @@ From **cloud deployments** to **CI/CD pipelines**, I thrive on creating efficien
 
 ---
 
-⭐ **“Infrastructure as Code, Delivery .”**
+⭐ **“Infrastructure as Code, Delivery as Art.”**
